@@ -10,4 +10,6 @@ Number | Title | Solution
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_7_Approach_2.cs)
 9 | [Palindrome Sum](https://leetcode.com/problems/palindrome-number/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_9.cs)
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_13.cs)
+547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_547.cs)
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_771.cs)
+894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_894.cs)

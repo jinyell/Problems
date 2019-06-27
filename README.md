@@ -12,6 +12,7 @@ Number | Title | Solution
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_13.cs)
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_14.cs)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_20.cs)
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_21.cs)
 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_547.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654_Approach_2.cs)

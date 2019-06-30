@@ -15,6 +15,7 @@ Number | Title | Solution
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_21.cs)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_26.cs)
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_27.cs)
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_28.cs)
 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_547.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654_Approach_2.cs)

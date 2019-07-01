@@ -1,5 +1,5 @@
 ﻿/*
- * Problem 53: Implement strStr()
+ * Problem 28: Implement strStr()
  * Difficulty: Easy
  * 
  * Implement strStr().

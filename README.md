@@ -19,6 +19,7 @@ Number | Title | Solution
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_53.cs)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_66.cs)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_67.cs)
+69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_69.cs)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_70.cs)
 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_547.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654.cs)

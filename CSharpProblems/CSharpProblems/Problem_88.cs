@@ -16,8 +16,6 @@
  * Output: [1,2,2,3,5,6]
  */
 
-using System.Collections.Generic;
-
 namespace CSharpProblems
 {
     public class Problem_88

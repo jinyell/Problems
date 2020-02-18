@@ -36,6 +36,7 @@ Number | Title | Solution
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_118.cs)
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_119.cs)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_121.cs)
+415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_415.cs)
 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_547.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654.cs)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654_Approach_2.cs)

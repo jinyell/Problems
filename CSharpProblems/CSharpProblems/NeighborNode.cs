@@ -15,3 +15,4 @@ namespace CSharpProblems
             neighbors = _neighbors;
         }
     }
+}

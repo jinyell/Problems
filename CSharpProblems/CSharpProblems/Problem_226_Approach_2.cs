@@ -22,6 +22,8 @@
  *      9   6 3   1
  */
 
+using System.Collections.Generic;
+
 namespace CSharpProblems
 {
     public class Problem_226_Approach_2

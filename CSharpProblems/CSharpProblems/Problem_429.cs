@@ -46,7 +46,7 @@ namespace CSharpProblems
         */
         public class Solution
         {
-            public IList<IList<int>> LevelOrder(Node root)
+            public IList<IList<int>> LevelOrder(ChildrenNode root)
             {
                 IList<IList<int>> result = new List<IList<int>>();
                 if (root == null)
@@ -54,7 +54,7 @@ namespace CSharpProblems
                     return result;
                 }
 
-                Queue<Node> queue = new Queue<Node>();
+                Queue<ChildrenNode> queue = new Queue<ChildrenNode>();
                 queue.Enqueue(root);
 
                 while (queue.Count != 0)
@@ -63,10 +63,10 @@ namespace CSharpProblems
                     IList<int> subList = new List<int>();
                     for (int i = 0; i < level; i++)
                     {
-                        Node node = queue.Dequeue();
+                        ChildrenNode node = queue.Dequeue();
                         subList.Add(node.val);
 
-                        foreach (Node child in node.children)
+                        foreach (ChildrenNode child in node.children)
                         {
                             queue.Enqueue(child);
                         }

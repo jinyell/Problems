@@ -1,3 +1,7 @@
-D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.csprojAssemblyReference.cache
 D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.AssemblyInfoInputs.cache
 D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.AssemblyInfo.cs
+D:\Projects\Problems\CSharpProblems\CSharpProblems\bin\Debug\netstandard1.4\CSharpProblems.deps.json
+D:\Projects\Problems\CSharpProblems\CSharpProblems\bin\Debug\netstandard1.4\CSharpProblems.dll
+D:\Projects\Problems\CSharpProblems\CSharpProblems\bin\Debug\netstandard1.4\CSharpProblems.pdb
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.dll
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.pdb

@@ -25,6 +25,8 @@
  * Note: You may assume both s and t have the same length.
  */
 
+using System.Collections.Generic;
+
 namespace CSharpProblems
 {
     public class Problem_205

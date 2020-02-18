@@ -2,7 +2,8 @@
  * Problem 894: All Possible Full Binary Trees
  * Difficulty: Medium
  * 
- * A full binary tree is a binary tree where each node has exactly 0 or 2 children.
+ * A full binary tree is a binary tree where each node has exactly 
+ * 0 or 2 children.
  * 
  * Return a list of all possible full binary trees with N nodes.  
  * Each element of the answer is the root node of one possible tree.
@@ -13,7 +14,11 @@
  * 
  * Example 1:
  * Input: 7
- * Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]
+ * Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],
+ * 			[0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],
+ * 			[0,0,0,0,0,null,null,0,0]]
+ *
+ * Note: 1 <= N <= 20
 */
 
 using System.Collections.Generic;
@@ -35,11 +40,13 @@ namespace CSharpProblems
         {
             public IList<TreeNode> AllPossibleFBT(int N)
             {
-                Dictionary<int, List<TreeNode>> memo = new Dictionary<int, List<TreeNode>>();
-                return FirstBreadthTraversal(N, memo);
+                Dictionary<int, List<TreeNode>> memo =
+                                        new Dictionary<int, List<TreeNode>>();
+                return FBT(N, memo);
             }
 
-            private List<TreeNode> FirstBreadthTraversal(int num, Dictionary<int, List<TreeNode>> memo)
+            private List<TreeNode> FBT(int num,
+                                       Dictionary<int, List<TreeNode>> memo)
             {
                 if (memo.ContainsKey(num))
                 {
@@ -57,9 +64,9 @@ namespace CSharpProblems
                     for (int left = 0; left < num; left++)
                     {
                         int right = num - 1 - left;
-                        foreach (TreeNode leftTreeNode in FirstBreadthTraversal(left, memo))
+                        foreach (TreeNode leftTreeNode in FBT(left, memo))
                         {
-                            foreach (TreeNode rightTreeNode in FirstBreadthTraversal(right, memo))
+                            foreach (TreeNode rightTreeNode in FBT(right, memo))
                             {
                                 TreeNode node = new TreeNode(0);
                                 node.left = leftTreeNode;
@@ -76,3 +83,9 @@ namespace CSharpProblems
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : 
+ * 		Space complexity :
+ */

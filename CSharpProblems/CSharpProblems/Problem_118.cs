@@ -2,8 +2,9 @@
  * Problem 118: Pascal's Triangle
  * Difficulty: Easy
  * 
- * Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
- * In Pascal's triangle, each number is the sum of the two numbers directly above it.
+ * Given a non-negative integer numRows, generate the first numRows of 
+ * Pascal's triangle. In Pascal's triangle, each number is the sum of the two 
+ * numbers directly above it.
  * 
  * Example:
  * 
@@ -54,3 +55,19 @@ namespace CSharpProblems
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : O(numRows^2) Although updating each value of 
+ * 						   triangle happens in constant time, it is performed
+ * 						   O(numRows^2) times. To see why, consider how many
+ * 						   overall loop iterations there are. The outer loop
+ * 						   obviously runs numRows times, but for each iteration
+ * 						   of the outer loop, the inner loop runs rowNum times.
+ * 						   Therefore, the overall number of triangle updates
+ * 						   that occur is 1 + 2 + 3 + ... + numRows, which 
+ * 						   according to Gauss' formula is: O(numRows^2)
+ * 		Space complexity : O(numRows^2) Because we need to store each numbers
+ * 						   that we update in triangle, the space requirement is
+ * 						   the same as the time complexity.
+ */

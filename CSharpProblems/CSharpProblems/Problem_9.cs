@@ -2,7 +2,8 @@
  * Problem 9: Palindrome Number
  * Difficulty: Easy
  * 
- * Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+ * Determine whether an integer is a palindrome. An integer is a palindrome 
+ * when it reads the same backward as forward.
 
  * Example 1:
  * Input: 121
@@ -11,7 +12,8 @@
  * Example 2:
  * Input: -121
  * Output: false
- * Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+ * Explanation: From left to right, it reads -121. From right to left, it 
+ * becomes 121-. Therefore it is not a palindrome.
 
  * Example 3:
  * Input: 10
@@ -45,3 +47,10 @@ namespace CSharpProblems
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : O(log10(n)). We divided the input by 10 forward
+						   every iteration.
+ * 		Space complexity : O(1)
+ */

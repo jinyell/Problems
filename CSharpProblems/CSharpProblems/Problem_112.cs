@@ -51,8 +51,15 @@ namespace CSharpProblems
                     return root.val == sum;
                 }
 
-                return HasPathSum(root.left, sum - root.val) || HasPathSum(root.right, sum - root.val);
+                return HasPathSum(root.left, sum - root.val) ||
+                       HasPathSum(root.right, sum - root.val);
             }
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : 
+ * 		Space complexity : 
+ */

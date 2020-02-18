@@ -2,7 +2,8 @@
  * Problem 107: Binary Tree Level Order Traversal II
  * Difficulty: Easy
  * 
- * Given a binary tree, return the bottom-up level order traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).
+ * Given a binary tree, return the bottom-up level order traversal of its 
+ * nodes' values. (ie, from left to right, level by level from leaf to root).
  * 
  * For example:
  * Given binary tree [3,9,20,null,null,15,7],
@@ -29,7 +30,7 @@ namespace CSharpProblems
 {
     public class Problem_107_Approach_2
     {
-        /**
+        /*
          * Definition for a binary tree node.
          * public class TreeNode {
          *     public int val;
@@ -38,28 +39,38 @@ namespace CSharpProblems
          *     public TreeNode(int x) { val = x; }
          * }
          */
+
         public class Solution
         {
             public IList<IList<int>> LevelOrderBottom(TreeNode root)
             {
-                IList<IList<int>> levelList = new List<IList<int>>();
-                Level(levelList, root, 0);
-                return levelList.Reverse().ToList();
+                IList<IList<int>> list = new List<IList<int>>();
+                Level(list, root, 0);
+                return list.Reverse().ToList();
             }
 
-            private void Level(IList<IList<int>> levelList, TreeNode root, int level)
+            private void Level(IList<IList<int>> list, TreeNode root, int level)
             {
-                if (root == null) { return; }
-
-                if (level >= levelList.Count)
+                if (root == null)
                 {
-                    levelList.Add(new List<int>());
+                    return;
                 }
 
-                levelList[level].Add(root.val);
-                Level(levelList, root.left, level + 1);
-                Level(levelList, root.right, level + 1);
+                if (level >= list.Count)
+                {
+                    list.Add(new List<int>());
+                }
+
+                list[level].Add(root.val);
+                Level(list, root.left, level + 1);
+                Level(list, root.right, level + 1);
             }
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : 
+ * 		Space complexity : 
+ */

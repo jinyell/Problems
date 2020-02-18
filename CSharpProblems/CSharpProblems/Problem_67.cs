@@ -37,8 +37,15 @@ namespace CSharpProblems
                     carry = (total > 1) ? 1 : 0;
                 }
 
-                return (carry == 1) ? result.Insert(0, 1).ToString() : result.ToString();
+                return (carry == 1) ? result.Insert(0, 1).ToString()
+                                    : result.ToString();
             }
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : 
+ * 		Space complexity :
+ */

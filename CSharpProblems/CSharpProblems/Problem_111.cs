@@ -4,7 +4,8 @@
  * 
  * Given a binary tree, find its minimum depth.
  * 
- * The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+ * The minimum depth is the number of nodes along the shortest path from the 
+ * root node down to the nearest leaf node.
  * 
  * Note: A leaf is a node with no children.
  * 
@@ -48,8 +49,15 @@ namespace CSharpProblems
                 int left = MinDepth(root.left);
                 int right = MinDepth(root.right);
 
-                return 1 + (Math.Min(left, right) > 0 ? Math.Min(left, right) : Math.Max(left, right));
+                return 1 + (Math.Min(left, right) > 0 ? Math.Min(left, right)
+                                                      : Math.Max(left, right));
             }
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : 
+ * 		Space complexity : 
+ */

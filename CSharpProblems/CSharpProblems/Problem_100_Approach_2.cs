@@ -2,8 +2,10 @@
  * Problem 100: Same Tree
  * Difficulty: Easy
  * 
- * Given two binary trees, write a function to check if they are the same or not.
- * Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
+ * Given two binary trees, write a function to check if they are the 
+ * same or not.
+ * Two binary trees are considered the same if they are structurally 
+ * identical and the nodes have the same value.
  * 
  * Example 1:
  * 
@@ -35,8 +37,6 @@
  * 
  * Output: false
  */
-
-using System.Collections.Generic;
 
 namespace CSharpProblems
 {
@@ -70,8 +70,17 @@ namespace CSharpProblems
                     return false;
                 }
 
-                return IsSameTree(p.left, q.left) && IsSameTree(p.right, q.right);
+                return IsSameTree(p.left, q.left) &&
+                       IsSameTree(p.right, q.right);
             }
         }
     }
 }
+/*
+ * Complexity Analysis
+ * Time complexity : O(N), where N is a number of nodes in the tree, 
+ * 					 since one visits each node exactly once.
+ * Space complexity: O(log⁡(N)) in the best case of completely balanced 
+ * 					 tree and O(N) in the worst case of completely 
+ * 					 unbalanced tree, to keep a recursion stack.
+ */

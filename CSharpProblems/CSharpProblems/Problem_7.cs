@@ -17,8 +17,10 @@
  * Output: 21
 
  * Note:
- * Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. 
- * For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
+ * Assume we are dealing with an environment which could only store integers 
+ * within the 32-bit signed integer range: [−231,  231 − 1]. For the purpose 
+ * of this problem, assume that your function returns 0 when the reversed 
+ * integer overflows.
 */
 
 namespace CSharpProblems
@@ -39,8 +41,18 @@ namespace CSharpProblems
                 {
                     int pop = x % 10;
                     x /= 10;
-                    if (reverse > int.MaxValue / 10 || (reverse == int.MaxValue / 10 && pop > 7)) { return 0; }
-                    if (reverse < int.MinValue / 10 || (reverse == int.MinValue / 10 && pop < -8)) { return 0; }
+                    if (reverse > int.MaxValue / 10 || 
+                       (reverse == int.MaxValue / 10 && pop > 7))
+                    {
+                        return 0;
+                    }
+
+                    if (reverse < int.MinValue / 10 || 
+                       (reverse == int.MinValue / 10 && pop < -8))
+                    {
+                        return 0;
+                    }
+
                     reverse = reverse * 10 + pop;
                 }
                 return reverse;
@@ -48,3 +60,9 @@ namespace CSharpProblems
         }
     }
 }
+
+/*
+ * Complexity Analysis
+ * 		Time complexity  : O(log(x)). There are roughly log10(x) digit in x.
+ * 		Space complexity : O(1)
+ */

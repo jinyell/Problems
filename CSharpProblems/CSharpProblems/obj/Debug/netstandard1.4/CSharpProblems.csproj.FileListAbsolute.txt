@@ -1,0 +1,3 @@
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.csprojAssemblyReference.cache
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.AssemblyInfoInputs.cache
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.AssemblyInfo.cs

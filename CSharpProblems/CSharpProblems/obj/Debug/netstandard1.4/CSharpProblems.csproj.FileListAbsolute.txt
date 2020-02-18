@@ -5,3 +5,4 @@ D:\Projects\Problems\CSharpProblems\CSharpProblems\bin\Debug\netstandard1.4\CSha
 D:\Projects\Problems\CSharpProblems\CSharpProblems\bin\Debug\netstandard1.4\CSharpProblems.pdb
 D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.dll
 D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.pdb
+D:\Projects\Problems\CSharpProblems\CSharpProblems\obj\Debug\netstandard1.4\CSharpProblems.csprojAssemblyReference.cache

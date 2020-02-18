@@ -41,6 +41,8 @@ Number | Title | Solution
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_654_Approach_2.cs)
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_771.cs)
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_811.cs)
+819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_819.cs)
+819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_819%20_Approach_2.cs)
 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_894.cs)
 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1008.cs)
 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1008_Approach_2.cs)

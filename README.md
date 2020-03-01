@@ -60,4 +60,7 @@ Number | Title | Solution
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1119_Approach_2.cs)
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Approach 3](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1119_Approach_3.cs)
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1342.cs)
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1365.cs)
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1365_Approach_2.cs)
+
 

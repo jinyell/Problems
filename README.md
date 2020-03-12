@@ -47,6 +47,8 @@ Number | Title | Solution
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_680.cs)
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_680_Approach_2.cs)
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Approach 3](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_680%20_Approach_3.cs)
+760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_760.cs)
+760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_760_Approach_2.cs)
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_771.cs)
 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_811.cs)
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_819.cs)

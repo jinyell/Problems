@@ -62,6 +62,8 @@ Number | Title | Solution
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1119.cs)
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1119_Approach_2.cs)
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Approach 3](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1119_Approach_3.cs)
+1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1134.cs)
+1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1134_Approach_2.cs)
 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1165.cs)
 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1165_Approach_2.cs)
 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1221.cs)

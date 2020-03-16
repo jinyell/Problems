@@ -81,5 +81,6 @@ Number | Title | Solution
 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Approach 4](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1351_Approach_4.cs)
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1365.cs)
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1365_Approach_2.cs)
-
+1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Approach 1](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1370.cs)
+1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Approach 2](https://github.com/jinyell/Problems/blob/master/CSharpProblems/CSharpProblems/Problem_1370_Approach_2.cs)
 
